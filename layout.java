@@ -2,12 +2,11 @@ import javax.swing.*;
 import java.awt.*;
 
 public class layout {
-    public layout(){
-
-    }
     public static void main(String[] args) {
 //        JFrame jframe;
 //        jframe = new JFrame();
+////        jframe = new JFrame();
+////        create buttons
 //        JButton btn1 = new JButton("NORTH");
 //        JButton btn2 = new JButton("SOUTH");
 //        JButton btn3 = new JButton("EAST");
@@ -44,7 +43,7 @@ public class layout {
 
         JFrame frameObj = new JFrame();
 
-
+        //creating the buttons
         JButton b1 = new JButton("1");
         JButton b2 = new JButton("2");
         JButton b3 = new JButton("3");
